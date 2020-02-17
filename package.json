@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "server for warbler app",
   "main": "index.js",
+	"engines": {
+		"node": "10.16.3",
+		"npm": "6.11.3"
+	},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
